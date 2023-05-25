@@ -1,2 +1,2 @@
-# lab5site.github.io
+# lab5.github.io
 тестова веб-сторінка
